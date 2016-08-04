@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DarkStarTeams:jar">
+    <output-path>H:/Local Servers/Coding Server - Kopi/plugins</output-path>
+    <root id="archive" name="DarkStarTeams.jar">
+      <element id="module-output" name="DarkStarTeams" />
+    </root>
+  </artifact>
+</component>

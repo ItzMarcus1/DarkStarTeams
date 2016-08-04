@@ -1,0 +1,7 @@
+name: DarkStarTeams
+main: me.itzmarcus.teams.Core
+version: 1.0
+
+commands:
+  team:
+    description: Command
